@@ -1,6 +1,7 @@
-This programme will manage a stone that can store ‘energy’ and has hidden elemental ‘affinities’ (Fire, Water, Air).
 # 💎 The Spirit Stone Project
 
+This programme will manage a stone that can store ‘energy’ and has hidden elemental ‘affinities’ (Fire, Water, Air).
+---
 A simple project to demonstrate the core concepts of **Object-Oriented Programming (OOP)** in a unique and engaging way. Tired of `Car` or `Cat` examples? Let's manage a *magical item*!
 
 | 🐍 Language | 📦 Concepts | 🎮 Theme |
